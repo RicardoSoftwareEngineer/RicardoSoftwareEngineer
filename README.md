@@ -1,7 +1,7 @@
 - 👋 hi, I’m @RicardoCampinas
 - 👀 I’m interested in java, spring, kotlin and microservices
 - 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on a company
+- 💞️ I’m looking to collaborate in a company
 - 📫 reach me on whatsapp +55 19 98274 5635
 
 <!---
