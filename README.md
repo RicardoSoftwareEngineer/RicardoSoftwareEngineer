@@ -1,7 +1,7 @@
 - 👋 hi, I’m @RicardoCampinas
 - 👀 I’m interested in java, spring, kotlin and microservices
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate in a company
+- 🌱 I’m currently learning microservice skills
+- 💞️ I proudly work at gft.com
 - 📫 reach me on linkedin www.linkedin.com/in/ricardojava
 
 <!---
