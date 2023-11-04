@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ricardo Ribeiro
-- 👀 A software engineer
-- 🌱 Currently learning microservice skills
-- 💞️ I believe everything can be done with a good architecture
-- 📫 Reach me on www.linkedin.com/in/ricardose
+- 👋 Hi, I’m Ricardo Ribeiro.
+- 👀 Proudly a software engineer.
+- 🌱 Currently learning microservice skills.
+- 💞️ I believe everything can be done with a good architecture.
+- 📫 Feel free to reach me on Linkedin www.linkedin.com/in/ricardose
